@@ -1,0 +1,1539 @@
+{
+    "player-inventory": [
+        {
+            "item-type": "key",
+            "item-xpos": -199,
+            "item-ypos": -89,
+            "item-name": "Dark key of Great Happiness"
+        },
+        {
+            "item-type": "pants",
+            "item-xpos": -312,
+            "item-ypos": -230,
+            "item-name": "Heavy pants of Geminia"
+        },
+        {
+            "item-type": "helmet",
+            "item-xpos": -372,
+            "item-ypos": -60,
+            "item-name": "Holy helmet that happen to be broken"
+        },
+        {
+            "item-type": "key",
+            "item-xpos": -390,
+            "item-ypos": 33,
+            "item-name": "Holy key of Great Happiness"
+        },
+        {
+            "item-type": "pants",
+            "item-xpos": -175,
+            "item-ypos": 185,
+            "item-name": "Heretical pants of Northumbria"
+        }
+    ],
+    "player-ypos": 7,
+    "psm-roomIndicator": 0,
+    "psm-map": [
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -190,
+                    "item-ypos": 106,
+                    "item-name": "Blood-stained gloves of Great Happiness"
+                },
+                {
+                    "item-type": "armwear",
+                    "item-xpos": 337,
+                    "item-ypos": 112,
+                    "item-name": "Dark armwear of Durin"
+                },
+                {
+                    "item-type": "pants",
+                    "item-xpos": 424,
+                    "item-ypos": -295,
+                    "item-name": "Holy pants of Luck"
+                },
+                {
+                    "item-type": "chestwear",
+                    "item-xpos": -284,
+                    "item-ypos": 150,
+                    "item-name": "Bard's chestwear that happen to be broken"
+                }
+            ],
+            "room-type": "Dungeon2"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -250,
+                    "fixture-ypos2": 250,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -400
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -250,
+                    "fixture-ypos2": 250,
+                    "fixture-xpos1": 400,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "shoes",
+                    "item-xpos": 185,
+                    "item-ypos": -187,
+                    "item-name": "Dark shoes imbued with redness"
+                },
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -46,
+                    "item-ypos": -159,
+                    "item-name": "Holy gloves of Oddsfolk"
+                },
+                {
+                    "item-type": "helmet",
+                    "item-xpos": -223,
+                    "item-ypos": -123,
+                    "item-name": "Holy helmet imbued with redness"
+                },
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -205,
+                    "item-ypos": -175,
+                    "item-name": "Eldritch gloves of Osuvox"
+                },
+                {
+                    "item-type": "key",
+                    "item-xpos": -192,
+                    "item-ypos": 42,
+                    "item-name": "Holy key of Luck"
+                },
+                {
+                    "item-type": "weapon",
+                    "item-xpos": 356,
+                    "item-ypos": -207,
+                    "item-name": "Blood-stained weapon of Luck"
+                }
+            ],
+            "room-type": "Dungeon3"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "helmet",
+                    "item-xpos": -31,
+                    "item-ypos": -121,
+                    "item-name": "Wicked helmet of Durin"
+                },
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -341,
+                    "item-ypos": 40,
+                    "item-name": "Eldritch gloves of Great Happiness"
+                }
+            ],
+            "room-type": "Dungeon2"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -488,
+                    "item-ypos": -145,
+                    "item-name": "Heretical gloves of Great Happiness"
+                },
+                {
+                    "item-type": "weapon",
+                    "item-xpos": 272,
+                    "item-ypos": 98,
+                    "item-name": "Dark weapon of Osuvox"
+                },
+                {
+                    "item-type": "pants",
+                    "item-xpos": 399,
+                    "item-ypos": 47,
+                    "item-name": "Light pants of Great Happiness"
+                },
+                {
+                    "item-type": "helmet",
+                    "item-xpos": -218,
+                    "item-ypos": 303,
+                    "item-name": "Heretical helmet of Oddsfolk"
+                }
+            ],
+            "room-type": "Dungeon2"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -100,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -100,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 100,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 100,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -100,
+                    "fixture-ypos2": 100,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -300
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -100,
+                    "fixture-ypos2": 100,
+                    "fixture-xpos1": 300,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [{
+                "item-type": "shoes",
+                "item-xpos": 231,
+                "item-ypos": 4,
+                "item-name": "Light shoes of Durin"
+            }],
+            "room-type": "Dungeon1"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -100,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -100,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 100,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 100,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -100,
+                    "fixture-ypos2": 100,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -300
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -100,
+                    "fixture-ypos2": 100,
+                    "fixture-xpos1": 300,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [{
+                "item-type": "shoes",
+                "item-xpos": 231,
+                "item-ypos": 4,
+                "item-name": "Light shoes of Durin"
+            }],
+            "room-type": "Dungeon1"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -100,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -100,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 100,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 100,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -100,
+                    "fixture-ypos2": 100,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -300
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -100,
+                    "fixture-ypos2": 100,
+                    "fixture-xpos1": 300,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [{
+                "item-type": "shoes",
+                "item-xpos": 231,
+                "item-ypos": 4,
+                "item-name": "Light shoes of Durin"
+            }],
+            "room-type": "Dungeon1"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -488,
+                    "item-ypos": -145,
+                    "item-name": "Heretical gloves of Great Happiness"
+                },
+                {
+                    "item-type": "weapon",
+                    "item-xpos": 272,
+                    "item-ypos": 98,
+                    "item-name": "Dark weapon of Osuvox"
+                },
+                {
+                    "item-type": "pants",
+                    "item-xpos": 399,
+                    "item-ypos": 47,
+                    "item-name": "Light pants of Great Happiness"
+                },
+                {
+                    "item-type": "helmet",
+                    "item-xpos": -218,
+                    "item-ypos": 303,
+                    "item-name": "Heretical helmet of Oddsfolk"
+                }
+            ],
+            "room-type": "Dungeon2"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "helmet",
+                    "item-xpos": -31,
+                    "item-ypos": -121,
+                    "item-name": "Wicked helmet of Durin"
+                },
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -341,
+                    "item-ypos": 40,
+                    "item-name": "Eldritch gloves of Great Happiness"
+                }
+            ],
+            "room-type": "Dungeon2"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -250,
+                    "fixture-ypos2": 250,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -400
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -250,
+                    "fixture-ypos2": 250,
+                    "fixture-xpos1": 400,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "shoes",
+                    "item-xpos": 185,
+                    "item-ypos": -187,
+                    "item-name": "Dark shoes imbued with redness"
+                },
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -46,
+                    "item-ypos": -159,
+                    "item-name": "Holy gloves of Oddsfolk"
+                },
+                {
+                    "item-type": "helmet",
+                    "item-xpos": -223,
+                    "item-ypos": -123,
+                    "item-name": "Holy helmet imbued with redness"
+                },
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -205,
+                    "item-ypos": -175,
+                    "item-name": "Eldritch gloves of Osuvox"
+                },
+                {
+                    "item-type": "key",
+                    "item-xpos": -192,
+                    "item-ypos": 42,
+                    "item-name": "Holy key of Luck"
+                },
+                {
+                    "item-type": "weapon",
+                    "item-xpos": 356,
+                    "item-ypos": -207,
+                    "item-name": "Blood-stained weapon of Luck"
+                }
+            ],
+            "room-type": "Dungeon3"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -190,
+                    "item-ypos": 106,
+                    "item-name": "Blood-stained gloves of Great Happiness"
+                },
+                {
+                    "item-type": "armwear",
+                    "item-xpos": 337,
+                    "item-ypos": 112,
+                    "item-name": "Dark armwear of Durin"
+                },
+                {
+                    "item-type": "pants",
+                    "item-xpos": 424,
+                    "item-ypos": -295,
+                    "item-name": "Holy pants of Luck"
+                },
+                {
+                    "item-type": "chestwear",
+                    "item-xpos": -284,
+                    "item-ypos": 150,
+                    "item-name": "Bard's chestwear that happen to be broken"
+                }
+            ],
+            "room-type": "Dungeon2"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -250,
+                    "fixture-ypos2": 250,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -400
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -250,
+                    "fixture-ypos2": 250,
+                    "fixture-xpos1": 400,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "shoes",
+                    "item-xpos": 185,
+                    "item-ypos": -187,
+                    "item-name": "Dark shoes imbued with redness"
+                },
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -46,
+                    "item-ypos": -159,
+                    "item-name": "Holy gloves of Oddsfolk"
+                },
+                {
+                    "item-type": "helmet",
+                    "item-xpos": -223,
+                    "item-ypos": -123,
+                    "item-name": "Holy helmet imbued with redness"
+                },
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -205,
+                    "item-ypos": -175,
+                    "item-name": "Eldritch gloves of Osuvox"
+                },
+                {
+                    "item-type": "key",
+                    "item-xpos": -192,
+                    "item-ypos": 42,
+                    "item-name": "Holy key of Luck"
+                },
+                {
+                    "item-type": "weapon",
+                    "item-xpos": 356,
+                    "item-ypos": -207,
+                    "item-name": "Blood-stained weapon of Luck"
+                }
+            ],
+            "room-type": "Dungeon3"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -190,
+                    "item-ypos": 106,
+                    "item-name": "Blood-stained gloves of Great Happiness"
+                },
+                {
+                    "item-type": "armwear",
+                    "item-xpos": 337,
+                    "item-ypos": 112,
+                    "item-name": "Dark armwear of Durin"
+                },
+                {
+                    "item-type": "pants",
+                    "item-xpos": 424,
+                    "item-ypos": -295,
+                    "item-name": "Holy pants of Luck"
+                },
+                {
+                    "item-type": "chestwear",
+                    "item-xpos": -284,
+                    "item-ypos": 150,
+                    "item-name": "Bard's chestwear that happen to be broken"
+                }
+            ],
+            "room-type": "Dungeon2"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -100
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": 100,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -250,
+                    "fixture-ypos2": 250,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": -400
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -250,
+                    "fixture-ypos2": 250,
+                    "fixture-xpos1": 400,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "shoes",
+                    "item-xpos": 185,
+                    "item-ypos": -187,
+                    "item-name": "Dark shoes imbued with redness"
+                },
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -46,
+                    "item-ypos": -159,
+                    "item-name": "Holy gloves of Oddsfolk"
+                },
+                {
+                    "item-type": "helmet",
+                    "item-xpos": -223,
+                    "item-ypos": -123,
+                    "item-name": "Holy helmet imbued with redness"
+                },
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -205,
+                    "item-ypos": -175,
+                    "item-name": "Eldritch gloves of Osuvox"
+                },
+                {
+                    "item-type": "key",
+                    "item-xpos": -192,
+                    "item-ypos": 42,
+                    "item-name": "Holy key of Luck"
+                },
+                {
+                    "item-type": "weapon",
+                    "item-xpos": 356,
+                    "item-ypos": -207,
+                    "item-name": "Blood-stained weapon of Luck"
+                }
+            ],
+            "room-type": "Dungeon3"
+        },
+        {
+            "room-fixtures": [
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -400,
+                    "fixture-ypos2": -325,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": 500,
+                    "fixture-xpos2": 520
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": 325,
+                    "fixture-ypos2": 400,
+                    "fixture-xpos1": -500,
+                    "fixture-xpos2": 500
+                },
+                {
+                    "fixture-type": "wall",
+                    "fixture-collidable": true,
+                    "fixture-ypos1": -345,
+                    "fixture-ypos2": 345,
+                    "fixture-xpos1": -520,
+                    "fixture-xpos2": -500
+                },
+                {
+                    "fixture-type": "gateTop",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": -325,
+                    "fixture-ypos2": -250,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                },
+                {
+                    "fixture-type": "gateBot",
+                    "fixture-collidable": false,
+                    "fixture-ypos1": 250,
+                    "fixture-ypos2": 325,
+                    "fixture-xpos1": -100,
+                    "fixture-xpos2": 100
+                }
+            ],
+            "room-creatures": [],
+            "room-items": [
+                {
+                    "item-type": "gloves",
+                    "item-xpos": -190,
+                    "item-ypos": 106,
+                    "item-name": "Blood-stained gloves of Great Happiness"
+                },
+                {
+                    "item-type": "armwear",
+                    "item-xpos": 337,
+                    "item-ypos": 112,
+                    "item-name": "Dark armwear of Durin"
+                },
+                {
+                    "item-type": "pants",
+                    "item-xpos": 424,
+                    "item-ypos": -295,
+                    "item-name": "Holy pants of Luck"
+                },
+                {
+                    "item-type": "chestwear",
+                    "item-xpos": -284,
+                    "item-ypos": 150,
+                    "item-name": "Bard's chestwear that happen to be broken"
+                }
+            ],
+            "room-type": "Dungeon2"
+        }
+    ],
+    "player-xpos": 0
+}
